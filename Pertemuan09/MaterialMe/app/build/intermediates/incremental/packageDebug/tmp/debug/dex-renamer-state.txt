@@ -1,0 +1,4 @@
+#Thu Dec 01 11:28:19 SGT 2022
+base.0=E\:\\5B MI\\PBO\\Android-Developer-Fundamentals-Version-2-master\\5.2_Cards_and_colors\\MaterialMe\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

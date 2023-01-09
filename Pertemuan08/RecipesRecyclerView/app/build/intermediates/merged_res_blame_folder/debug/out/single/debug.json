@@ -1,0 +1,150 @@
+[
+    {
+        "merged": "me.mahakagg.recipesrecyclerview.app-merged_res-10:/drawable_blueberry_ice_cream.jpg.flat",
+        "source": "me.mahakagg.recipesrecyclerview.app-main-12:/drawable/blueberry_ice_cream.jpg"
+    },
+    {
+        "merged": "me.mahakagg.recipesrecyclerview.app-merged_res-10:/layout_activity_main.xml.flat",
+        "source": "me.mahakagg.recipesrecyclerview.app-main-12:/layout/activity_main.xml"
+    },
+    {
+        "merged": "me.mahakagg.recipesrecyclerview.app-merged_res-10:/drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "me.mahakagg.recipesrecyclerview.app-pngs-5:/drawable-xxxhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "me.mahakagg.recipesrecyclerview.app-merged_res-10:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "me.mahakagg.recipesrecyclerview.app-main-12:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "me.mahakagg.recipesrecyclerview.app-merged_res-10:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "me.mahakagg.recipesrecyclerview.app-main-12:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "me.mahakagg.recipesrecyclerview.app-merged_res-10:/raw_recipe_names.txt.flat",
+        "source": "me.mahakagg.recipesrecyclerview.app-main-12:/raw/recipe_names.txt"
+    },
+    {
+        "merged": "me.mahakagg.recipesrecyclerview.app-merged_res-10:/drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "me.mahakagg.recipesrecyclerview.app-pngs-5:/drawable-hdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "me.mahakagg.recipesrecyclerview.app-merged_res-10:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "me.mahakagg.recipesrecyclerview.app-main-12:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "me.mahakagg.recipesrecyclerview.app-merged_res-10:/drawable_blueberry_cupcakes.jpg.flat",
+        "source": "me.mahakagg.recipesrecyclerview.app-main-12:/drawable/blueberry_cupcakes.jpg"
+    },
+    {
+        "merged": "me.mahakagg.recipesrecyclerview.app-merged_res-10:/drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "me.mahakagg.recipesrecyclerview.app-pngs-5:/drawable-xhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "me.mahakagg.recipesrecyclerview.app-merged_res-10:/drawable_lemon_cake.jpg.flat",
+        "source": "me.mahakagg.recipesrecyclerview.app-main-12:/drawable/lemon_cake.jpg"
+    },
+    {
+        "merged": "me.mahakagg.recipesrecyclerview.app-merged_res-10:/drawable_espresso_crinkles.jpg.flat",
+        "source": "me.mahakagg.recipesrecyclerview.app-main-12:/drawable/espresso_crinkles.jpg"
+    },
+    {
+        "merged": "me.mahakagg.recipesrecyclerview.app-merged_res-10:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "me.mahakagg.recipesrecyclerview.app-main-12:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "me.mahakagg.recipesrecyclerview.app-merged_res-10:/drawable_chocolate_mint_bar.jpg.flat",
+        "source": "me.mahakagg.recipesrecyclerview.app-main-12:/drawable/chocolate_mint_bar.jpg"
+    },
+    {
+        "merged": "me.mahakagg.recipesrecyclerview.app-merged_res-10:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "me.mahakagg.recipesrecyclerview.app-main-12:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "me.mahakagg.recipesrecyclerview.app-merged_res-10:/drawable_fudge_brownies.jpg.flat",
+        "source": "me.mahakagg.recipesrecyclerview.app-main-12:/drawable/fudge_brownies.jpg"
+    },
+    {
+        "merged": "me.mahakagg.recipesrecyclerview.app-merged_res-10:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "me.mahakagg.recipesrecyclerview.app-main-12:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "me.mahakagg.recipesrecyclerview.app-merged_res-10:/layout_activity_recipe_method.xml.flat",
+        "source": "me.mahakagg.recipesrecyclerview.app-main-12:/layout/activity_recipe_method.xml"
+    },
+    {
+        "merged": "me.mahakagg.recipesrecyclerview.app-merged_res-10:/drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "me.mahakagg.recipesrecyclerview.app-pngs-5:/drawable-mdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "me.mahakagg.recipesrecyclerview.app-merged_res-10:/drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "me.mahakagg.recipesrecyclerview.app-pngs-5:/drawable-xxhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "me.mahakagg.recipesrecyclerview.app-merged_res-10:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "me.mahakagg.recipesrecyclerview.app-main-12:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "me.mahakagg.recipesrecyclerview.app-merged_res-10:/drawable_carrot_cake.jpg.flat",
+        "source": "me.mahakagg.recipesrecyclerview.app-main-12:/drawable/carrot_cake.jpg"
+    },
+    {
+        "merged": "me.mahakagg.recipesrecyclerview.app-merged_res-10:/drawable_sheet_cake.jpg.flat",
+        "source": "me.mahakagg.recipesrecyclerview.app-main-12:/drawable/sheet_cake.jpg"
+    },
+    {
+        "merged": "me.mahakagg.recipesrecyclerview.app-merged_res-10:/drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "me.mahakagg.recipesrecyclerview.app-pngs-5:/drawable-ldpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "me.mahakagg.recipesrecyclerview.app-merged_res-10:/drawable_tiramisu.jpg.flat",
+        "source": "me.mahakagg.recipesrecyclerview.app-main-12:/drawable/tiramisu.jpg"
+    },
+    {
+        "merged": "me.mahakagg.recipesrecyclerview.app-merged_res-10:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "me.mahakagg.recipesrecyclerview.app-main-12:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "me.mahakagg.recipesrecyclerview.app-merged_res-10:/drawable_chocolate_cherry_cookies.jpg.flat",
+        "source": "me.mahakagg.recipesrecyclerview.app-main-12:/drawable/chocolate_cherry_cookies.jpg"
+    },
+    {
+        "merged": "me.mahakagg.recipesrecyclerview.app-merged_res-10:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "me.mahakagg.recipesrecyclerview.app-main-12:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "me.mahakagg.recipesrecyclerview.app-merged_res-10:/raw_recipe_desc.txt.flat",
+        "source": "me.mahakagg.recipesrecyclerview.app-main-12:/raw/recipe_desc.txt"
+    },
+    {
+        "merged": "me.mahakagg.recipesrecyclerview.app-merged_res-10:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "me.mahakagg.recipesrecyclerview.app-pngs-5:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "me.mahakagg.recipesrecyclerview.app-merged_res-10:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "me.mahakagg.recipesrecyclerview.app-main-12:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "me.mahakagg.recipesrecyclerview.app-merged_res-10:/drawable_cobbler.jpg.flat",
+        "source": "me.mahakagg.recipesrecyclerview.app-main-12:/drawable/cobbler.jpg"
+    },
+    {
+        "merged": "me.mahakagg.recipesrecyclerview.app-merged_res-10:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "me.mahakagg.recipesrecyclerview.app-main-12:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "me.mahakagg.recipesrecyclerview.app-merged_res-10:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "me.mahakagg.recipesrecyclerview.app-main-12:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "me.mahakagg.recipesrecyclerview.app-merged_res-10:/layout_recipe_list.xml.flat",
+        "source": "me.mahakagg.recipesrecyclerview.app-main-12:/layout/recipe_list.xml"
+    },
+    {
+        "merged": "me.mahakagg.recipesrecyclerview.app-merged_res-10:/drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "me.mahakagg.recipesrecyclerview.app-pngs-5:/drawable-anydpi-v21/ic_launcher_background.xml"
+    },
+    {
+        "merged": "me.mahakagg.recipesrecyclerview.app-merged_res-10:/drawable_cheesecake.jpg.flat",
+        "source": "me.mahakagg.recipesrecyclerview.app-main-12:/drawable/cheesecake.jpg"
+    }
+]

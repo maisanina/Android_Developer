@@ -1,0 +1,122 @@
+[
+    {
+        "merged": "me.mahakagg.MaterialMeResourceCC.app-merged_res-31:/layout_activity_detail.xml.flat",
+        "source": "me.mahakagg.MaterialMeResourceCC.app-main-33:/layout/activity_detail.xml"
+    },
+    {
+        "merged": "me.mahakagg.MaterialMeResourceCC.app-merged_res-31:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "me.mahakagg.MaterialMeResourceCC.app-main-33:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "me.mahakagg.MaterialMeResourceCC.app-merged_res-31:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "me.mahakagg.MaterialMeResourceCC.app-main-33:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "me.mahakagg.MaterialMeResourceCC.app-merged_res-31:/drawable_img_golf.jpg.flat",
+        "source": "me.mahakagg.MaterialMeResourceCC.app-main-33:/drawable/img_golf.jpg"
+    },
+    {
+        "merged": "me.mahakagg.MaterialMeResourceCC.app-merged_res-31:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "me.mahakagg.MaterialMeResourceCC.app-main-33:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "me.mahakagg.MaterialMeResourceCC.app-merged_res-31:/transition_shared_element.xml.flat",
+        "source": "me.mahakagg.MaterialMeResourceCC.app-main-33:/transition/shared_element.xml"
+    },
+    {
+        "merged": "me.mahakagg.MaterialMeResourceCC.app-merged_res-31:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "me.mahakagg.MaterialMeResourceCC.app-main-33:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "me.mahakagg.MaterialMeResourceCC.app-merged_res-31:/drawable_img_soccer.jpg.flat",
+        "source": "me.mahakagg.MaterialMeResourceCC.app-main-33:/drawable/img_soccer.jpg"
+    },
+    {
+        "merged": "me.mahakagg.MaterialMeResourceCC.app-merged_res-31:/drawable_img_tabletennis.jpg.flat",
+        "source": "me.mahakagg.MaterialMeResourceCC.app-main-33:/drawable/img_tabletennis.jpg"
+    },
+    {
+        "merged": "me.mahakagg.MaterialMeResourceCC.app-merged_res-31:/drawable_img_baseball.jpg.flat",
+        "source": "me.mahakagg.MaterialMeResourceCC.app-main-33:/drawable/img_baseball.jpg"
+    },
+    {
+        "merged": "me.mahakagg.MaterialMeResourceCC.app-merged_res-31:/drawable_img_bowling.jpg.flat",
+        "source": "me.mahakagg.MaterialMeResourceCC.app-main-33:/drawable/img_bowling.jpg"
+    },
+    {
+        "merged": "me.mahakagg.MaterialMeResourceCC.app-merged_res-31:/drawable_img_basketball.jpg.flat",
+        "source": "me.mahakagg.MaterialMeResourceCC.app-main-33:/drawable/img_basketball.jpg"
+    },
+    {
+        "merged": "me.mahakagg.MaterialMeResourceCC.app-merged_res-31:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "me.mahakagg.MaterialMeResourceCC.app-main-33:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "me.mahakagg.MaterialMeResourceCC.app-merged_res-31:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "me.mahakagg.MaterialMeResourceCC.app-main-33:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "me.mahakagg.MaterialMeResourceCC.app-merged_res-31:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "me.mahakagg.MaterialMeResourceCC.app-main-33:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "me.mahakagg.MaterialMeResourceCC.app-merged_res-31:/drawable_img_badminton.jpg.flat",
+        "source": "me.mahakagg.MaterialMeResourceCC.app-main-33:/drawable/img_badminton.jpg"
+    },
+    {
+        "merged": "me.mahakagg.MaterialMeResourceCC.app-merged_res-31:/drawable_img_tennis.jpg.flat",
+        "source": "me.mahakagg.MaterialMeResourceCC.app-main-33:/drawable/img_tennis.jpg"
+    },
+    {
+        "merged": "me.mahakagg.MaterialMeResourceCC.app-merged_res-31:/layout_list_item.xml.flat",
+        "source": "me.mahakagg.MaterialMeResourceCC.app-main-33:/layout/list_item.xml"
+    },
+    {
+        "merged": "me.mahakagg.MaterialMeResourceCC.app-merged_res-31:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "me.mahakagg.MaterialMeResourceCC.app-pngs-26:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "me.mahakagg.MaterialMeResourceCC.app-merged_res-31:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "me.mahakagg.MaterialMeResourceCC.app-main-33:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "me.mahakagg.MaterialMeResourceCC.app-merged_res-31:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "me.mahakagg.MaterialMeResourceCC.app-main-33:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "me.mahakagg.MaterialMeResourceCC.app-merged_res-31:/drawable_img_swimming.jpg.flat",
+        "source": "me.mahakagg.MaterialMeResourceCC.app-main-33:/drawable/img_swimming.jpg"
+    },
+    {
+        "merged": "me.mahakagg.MaterialMeResourceCC.app-merged_res-31:/layout_activity_main.xml.flat",
+        "source": "me.mahakagg.MaterialMeResourceCC.app-main-33:/layout/activity_main.xml"
+    },
+    {
+        "merged": "me.mahakagg.MaterialMeResourceCC.app-merged_res-31:/drawable_img_running.jpg.flat",
+        "source": "me.mahakagg.MaterialMeResourceCC.app-main-33:/drawable/img_running.jpg"
+    },
+    {
+        "merged": "me.mahakagg.MaterialMeResourceCC.app-merged_res-31:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "me.mahakagg.MaterialMeResourceCC.app-main-33:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "me.mahakagg.MaterialMeResourceCC.app-merged_res-31:/drawable_ic_launcher_background.xml.flat",
+        "source": "me.mahakagg.MaterialMeResourceCC.app-main-33:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "me.mahakagg.MaterialMeResourceCC.app-merged_res-31:/drawable_ic_reset.xml.flat",
+        "source": "me.mahakagg.MaterialMeResourceCC.app-main-33:/drawable/ic_reset.xml"
+    },
+    {
+        "merged": "me.mahakagg.MaterialMeResourceCC.app-merged_res-31:/drawable_img_cycling.jpg.flat",
+        "source": "me.mahakagg.MaterialMeResourceCC.app-main-33:/drawable/img_cycling.jpg"
+    },
+    {
+        "merged": "me.mahakagg.MaterialMeResourceCC.app-merged_res-31:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "me.mahakagg.MaterialMeResourceCC.app-main-33:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "me.mahakagg.MaterialMeResourceCC.app-merged_res-31:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "me.mahakagg.MaterialMeResourceCC.app-main-33:/mipmap-xxxhdpi/ic_launcher.png"
+    }
+]

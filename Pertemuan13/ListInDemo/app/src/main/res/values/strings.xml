@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ListInDemo</string>
+    <string name="action_list">Open List View</string>
+    <string name="action_recycler">Open Recycler View</string>
+    <string name="action_quit">Quit</string>
+    <string name="item">Item</string>
+    <string name="night_mode">Night Mode</string>
+    <string name="open_input_control">Open Input Control</string>
+</resources>

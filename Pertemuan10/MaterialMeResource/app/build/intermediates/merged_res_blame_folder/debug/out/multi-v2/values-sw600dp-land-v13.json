@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "me.mahakagg.MaterialMeResource.app-mergeDebugResources-29:/values-sw600dp-land-v13/values-sw600dp-land-v13.xml",
+            "map": [
+                {
+                    "source": "E:\\5B MI\\PBO\\Android-Developer-Fundamentals-Version-2-master\\5.3_Adaptive_layouts\\MaterialMeResource\\app\\src\\main\\res\\values-sw600dp-land\\integers.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "57",
+                        "endColumns": "49",
+                        "endOffsets": "102"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "49",
+                        "endOffsets": "100"
+                    }
+                }
+            ]
+        }
+    ]
+}

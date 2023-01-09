@@ -1,0 +1,28 @@
+{
+    "logs": [
+        {
+            "outputFile": "me.mahakagg.MaterialMeResourceCC.app-mergeDebugResources-29:/values-en-rNZ/values-en-rNZ.xml",
+            "map": [
+                {
+                    "source": "E:\\5B MI\\PBO\\Android-Developer-Fundamentals-Version-2-master\\5.3_Adaptive_layouts\\MaterialMeResourceCC\\app\\src\\main\\res\\values-en-rNZ\\strings.xml",
+                    "from": {
+                        "startLines": "50,22,36,8,1,6,3,5,4,2",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "2334,1186,1726,785,17,297,120,242,171,67",
+                        "endLines": "63,34,48,20,1,6,3,5,4,2",
+                        "endColumns": "19,12,19,19,48,484,49,53,69,51",
+                        "endOffsets": "12730,1718,2326,1178,61,777,165,291,236,114"
+                    },
+                    "to": {
+                        "startLines": "2,16,29,42,55,56,57,58,59,60",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,10443,10968,11561,11947,11996,12481,12531,12585,12655",
+                        "endLines": "15,28,41,54,55,56,57,58,59,60",
+                        "endColumns": "19,12,19,19,48,484,49,53,69,51",
+                        "endOffsets": "10438,10963,11556,11942,11991,12476,12526,12580,12650,12702"
+                    }
+                }
+            ]
+        }
+    ]
+}

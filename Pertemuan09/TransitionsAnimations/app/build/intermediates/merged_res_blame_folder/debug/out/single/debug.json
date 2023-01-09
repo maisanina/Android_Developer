@@ -1,0 +1,86 @@
+[
+    {
+        "merged": "me.mahakagg.transitionsanimations.app-merged_res-9:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "me.mahakagg.transitionsanimations.app-main-11:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "me.mahakagg.transitionsanimations.app-merged_res-9:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "me.mahakagg.transitionsanimations.app-pngs-4:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "me.mahakagg.transitionsanimations.app-merged_res-9:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "me.mahakagg.transitionsanimations.app-main-11:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "me.mahakagg.transitionsanimations.app-merged_res-9:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "me.mahakagg.transitionsanimations.app-main-11:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "me.mahakagg.transitionsanimations.app-merged_res-9:/drawable_drawable_shape_line.xml.flat",
+        "source": "me.mahakagg.transitionsanimations.app-main-11:/drawable/drawable_shape_line.xml"
+    },
+    {
+        "merged": "me.mahakagg.transitionsanimations.app-merged_res-9:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "me.mahakagg.transitionsanimations.app-main-11:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "me.mahakagg.transitionsanimations.app-merged_res-9:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "me.mahakagg.transitionsanimations.app-main-11:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "me.mahakagg.transitionsanimations.app-merged_res-9:/drawable_drawable_shape_square.xml.flat",
+        "source": "me.mahakagg.transitionsanimations.app-main-11:/drawable/drawable_shape_square.xml"
+    },
+    {
+        "merged": "me.mahakagg.transitionsanimations.app-merged_res-9:/anim_anim_rotate.xml.flat",
+        "source": "me.mahakagg.transitionsanimations.app-main-11:/anim/anim_rotate.xml"
+    },
+    {
+        "merged": "me.mahakagg.transitionsanimations.app-merged_res-9:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "me.mahakagg.transitionsanimations.app-main-11:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "me.mahakagg.transitionsanimations.app-merged_res-9:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "me.mahakagg.transitionsanimations.app-main-11:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "me.mahakagg.transitionsanimations.app-merged_res-9:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "me.mahakagg.transitionsanimations.app-main-11:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "me.mahakagg.transitionsanimations.app-merged_res-9:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "me.mahakagg.transitionsanimations.app-main-11:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "me.mahakagg.transitionsanimations.app-merged_res-9:/layout_activity_main.xml.flat",
+        "source": "me.mahakagg.transitionsanimations.app-main-11:/layout/activity_main.xml"
+    },
+    {
+        "merged": "me.mahakagg.transitionsanimations.app-merged_res-9:/drawable_drawable_shape_circle.xml.flat",
+        "source": "me.mahakagg.transitionsanimations.app-main-11:/drawable/drawable_shape_circle.xml"
+    },
+    {
+        "merged": "me.mahakagg.transitionsanimations.app-merged_res-9:/drawable_ic_android.xml.flat",
+        "source": "me.mahakagg.transitionsanimations.app-main-11:/drawable/ic_android.xml"
+    },
+    {
+        "merged": "me.mahakagg.transitionsanimations.app-merged_res-9:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "me.mahakagg.transitionsanimations.app-main-11:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "me.mahakagg.transitionsanimations.app-merged_res-9:/drawable_ic_launcher_background.xml.flat",
+        "source": "me.mahakagg.transitionsanimations.app-main-11:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "me.mahakagg.transitionsanimations.app-merged_res-9:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "me.mahakagg.transitionsanimations.app-main-11:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "me.mahakagg.transitionsanimations.app-merged_res-9:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "me.mahakagg.transitionsanimations.app-main-11:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "me.mahakagg.transitionsanimations.app-merged_res-9:/layout_activity_second.xml.flat",
+        "source": "me.mahakagg.transitionsanimations.app-main-11:/layout/activity_second.xml"
+    }
+]

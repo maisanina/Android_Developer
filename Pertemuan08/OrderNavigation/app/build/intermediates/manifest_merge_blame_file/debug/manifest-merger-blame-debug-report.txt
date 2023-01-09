@@ -1,0 +1,103 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="me.mahakagg.ordernavigation"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="19"
+8-->E:\5B MI\PBO\Android-Developer-Fundamentals-Version-2-master\4.4_User_navigation\OrderNavigation\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="28" />
+9-->E:\5B MI\PBO\Android-Developer-Fundamentals-Version-2-master\4.4_User_navigation\OrderNavigation\app\src\main\AndroidManifest.xml
+10
+11    <application
+11-->E:\5B MI\PBO\Android-Developer-Fundamentals-Version-2-master\4.4_User_navigation\OrderNavigation\app\src\main\AndroidManifest.xml:5:5-50:19
+12        android:allowBackup="true"
+12-->E:\5B MI\PBO\Android-Developer-Fundamentals-Version-2-master\4.4_User_navigation\OrderNavigation\app\src\main\AndroidManifest.xml:6:9-35
+13        android:debuggable="true"
+14        android:icon="@mipmap/ic_launcher"
+14-->E:\5B MI\PBO\Android-Developer-Fundamentals-Version-2-master\4.4_User_navigation\OrderNavigation\app\src\main\AndroidManifest.xml:7:9-43
+15        android:label="@string/app_name"
+15-->E:\5B MI\PBO\Android-Developer-Fundamentals-Version-2-master\4.4_User_navigation\OrderNavigation\app\src\main\AndroidManifest.xml:8:9-41
+16        android:roundIcon="@mipmap/ic_launcher_round"
+16-->E:\5B MI\PBO\Android-Developer-Fundamentals-Version-2-master\4.4_User_navigation\OrderNavigation\app\src\main\AndroidManifest.xml:9:9-54
+17        android:supportsRtl="true"
+17-->E:\5B MI\PBO\Android-Developer-Fundamentals-Version-2-master\4.4_User_navigation\OrderNavigation\app\src\main\AndroidManifest.xml:10:9-35
+18        android:testOnly="true"
+19        android:theme="@style/AppTheme" >
+19-->E:\5B MI\PBO\Android-Developer-Fundamentals-Version-2-master\4.4_User_navigation\OrderNavigation\app\src\main\AndroidManifest.xml:11:9-40
+20        <activity
+20-->E:\5B MI\PBO\Android-Developer-Fundamentals-Version-2-master\4.4_User_navigation\OrderNavigation\app\src\main\AndroidManifest.xml:12:9-21:20
+21            android:name="me.mahakagg.ordernavigation.MainActivity"
+21-->E:\5B MI\PBO\Android-Developer-Fundamentals-Version-2-master\4.4_User_navigation\OrderNavigation\app\src\main\AndroidManifest.xml:13:13-41
+22            android:label="@string/app_name"
+22-->E:\5B MI\PBO\Android-Developer-Fundamentals-Version-2-master\4.4_User_navigation\OrderNavigation\app\src\main\AndroidManifest.xml:14:13-45
+23            android:launchMode="singleTop"
+23-->E:\5B MI\PBO\Android-Developer-Fundamentals-Version-2-master\4.4_User_navigation\OrderNavigation\app\src\main\AndroidManifest.xml:15:13-43
+24            android:theme="@style/AppTheme.NoActionBar" >
+24-->E:\5B MI\PBO\Android-Developer-Fundamentals-Version-2-master\4.4_User_navigation\OrderNavigation\app\src\main\AndroidManifest.xml:16:13-56
+25            <intent-filter>
+25-->E:\5B MI\PBO\Android-Developer-Fundamentals-Version-2-master\4.4_User_navigation\OrderNavigation\app\src\main\AndroidManifest.xml:17:13-20:29
+26                <action android:name="android.intent.action.MAIN" />
+26-->E:\5B MI\PBO\Android-Developer-Fundamentals-Version-2-master\4.4_User_navigation\OrderNavigation\app\src\main\AndroidManifest.xml:18:17-69
+26-->E:\5B MI\PBO\Android-Developer-Fundamentals-Version-2-master\4.4_User_navigation\OrderNavigation\app\src\main\AndroidManifest.xml:18:25-66
+27
+28                <category android:name="android.intent.category.LAUNCHER" />
+28-->E:\5B MI\PBO\Android-Developer-Fundamentals-Version-2-master\4.4_User_navigation\OrderNavigation\app\src\main\AndroidManifest.xml:19:17-77
+28-->E:\5B MI\PBO\Android-Developer-Fundamentals-Version-2-master\4.4_User_navigation\OrderNavigation\app\src\main\AndroidManifest.xml:19:27-74
+29            </intent-filter>
+30        </activity>
+31        <activity
+31-->E:\5B MI\PBO\Android-Developer-Fundamentals-Version-2-master\4.4_User_navigation\OrderNavigation\app\src\main\AndroidManifest.xml:23:9-30:20
+32            android:name="me.mahakagg.ordernavigation.SecondActivity"
+32-->E:\5B MI\PBO\Android-Developer-Fundamentals-Version-2-master\4.4_User_navigation\OrderNavigation\app\src\main\AndroidManifest.xml:24:13-43
+33            android:label="@string/title_activity_second"
+33-->E:\5B MI\PBO\Android-Developer-Fundamentals-Version-2-master\4.4_User_navigation\OrderNavigation\app\src\main\AndroidManifest.xml:25:13-58
+34            android:parentActivityName="me.mahakagg.ordernavigation.MainActivity"
+34-->E:\5B MI\PBO\Android-Developer-Fundamentals-Version-2-master\4.4_User_navigation\OrderNavigation\app\src\main\AndroidManifest.xml:27:13-55
+35            android:theme="@style/AppTheme.NoActionBar" >
+35-->E:\5B MI\PBO\Android-Developer-Fundamentals-Version-2-master\4.4_User_navigation\OrderNavigation\app\src\main\AndroidManifest.xml:26:13-56
+36            <meta-data
+36-->E:\5B MI\PBO\Android-Developer-Fundamentals-Version-2-master\4.4_User_navigation\OrderNavigation\app\src\main\AndroidManifest.xml:28:13-29:48
+37                android:name="android.support.PARENT_ACTIVITY"
+37-->E:\5B MI\PBO\Android-Developer-Fundamentals-Version-2-master\4.4_User_navigation\OrderNavigation\app\src\main\AndroidManifest.xml:28:24-70
+38                android:value=".MainActivity" />
+38-->E:\5B MI\PBO\Android-Developer-Fundamentals-Version-2-master\4.4_User_navigation\OrderNavigation\app\src\main\AndroidManifest.xml:29:17-46
+39        </activity>
+40        <activity
+40-->E:\5B MI\PBO\Android-Developer-Fundamentals-Version-2-master\4.4_User_navigation\OrderNavigation\app\src\main\AndroidManifest.xml:32:9-39:20
+41            android:name="me.mahakagg.ordernavigation.ThirdActivity"
+41-->E:\5B MI\PBO\Android-Developer-Fundamentals-Version-2-master\4.4_User_navigation\OrderNavigation\app\src\main\AndroidManifest.xml:33:13-42
+42            android:label="@string/title_activity_third"
+42-->E:\5B MI\PBO\Android-Developer-Fundamentals-Version-2-master\4.4_User_navigation\OrderNavigation\app\src\main\AndroidManifest.xml:34:13-57
+43            android:parentActivityName="me.mahakagg.ordernavigation.MainActivity"
+43-->E:\5B MI\PBO\Android-Developer-Fundamentals-Version-2-master\4.4_User_navigation\OrderNavigation\app\src\main\AndroidManifest.xml:36:13-55
+44            android:theme="@style/AppTheme.NoActionBar" >
+44-->E:\5B MI\PBO\Android-Developer-Fundamentals-Version-2-master\4.4_User_navigation\OrderNavigation\app\src\main\AndroidManifest.xml:35:13-56
+45            <meta-data
+45-->E:\5B MI\PBO\Android-Developer-Fundamentals-Version-2-master\4.4_User_navigation\OrderNavigation\app\src\main\AndroidManifest.xml:28:13-29:48
+46                android:name="android.support.PARENT_ACTIVITY"
+46-->E:\5B MI\PBO\Android-Developer-Fundamentals-Version-2-master\4.4_User_navigation\OrderNavigation\app\src\main\AndroidManifest.xml:28:24-70
+47                android:value=".MainActivity" />
+47-->E:\5B MI\PBO\Android-Developer-Fundamentals-Version-2-master\4.4_User_navigation\OrderNavigation\app\src\main\AndroidManifest.xml:29:17-46
+48        </activity>
+49        <activity
+49-->E:\5B MI\PBO\Android-Developer-Fundamentals-Version-2-master\4.4_User_navigation\OrderNavigation\app\src\main\AndroidManifest.xml:41:9-48:20
+50            android:name="me.mahakagg.ordernavigation.FourthActivity"
+50-->E:\5B MI\PBO\Android-Developer-Fundamentals-Version-2-master\4.4_User_navigation\OrderNavigation\app\src\main\AndroidManifest.xml:42:13-43
+51            android:label="@string/title_activity_fourth"
+51-->E:\5B MI\PBO\Android-Developer-Fundamentals-Version-2-master\4.4_User_navigation\OrderNavigation\app\src\main\AndroidManifest.xml:43:13-58
+52            android:parentActivityName="me.mahakagg.ordernavigation.MainActivity"
+52-->E:\5B MI\PBO\Android-Developer-Fundamentals-Version-2-master\4.4_User_navigation\OrderNavigation\app\src\main\AndroidManifest.xml:45:13-55
+53            android:theme="@style/AppTheme.NoActionBar" >
+53-->E:\5B MI\PBO\Android-Developer-Fundamentals-Version-2-master\4.4_User_navigation\OrderNavigation\app\src\main\AndroidManifest.xml:44:13-56
+54            <meta-data
+54-->E:\5B MI\PBO\Android-Developer-Fundamentals-Version-2-master\4.4_User_navigation\OrderNavigation\app\src\main\AndroidManifest.xml:28:13-29:48
+55                android:name="android.support.PARENT_ACTIVITY"
+55-->E:\5B MI\PBO\Android-Developer-Fundamentals-Version-2-master\4.4_User_navigation\OrderNavigation\app\src\main\AndroidManifest.xml:28:24-70
+56                android:value=".MainActivity" />
+56-->E:\5B MI\PBO\Android-Developer-Fundamentals-Version-2-master\4.4_User_navigation\OrderNavigation\app\src\main\AndroidManifest.xml:29:17-46
+57        </activity>
+58    </application>
+59
+60</manifest>

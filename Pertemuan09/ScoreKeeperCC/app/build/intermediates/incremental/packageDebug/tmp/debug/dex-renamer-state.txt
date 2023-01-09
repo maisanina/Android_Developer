@@ -1,0 +1,4 @@
+#Thu Dec 01 11:17:05 SGT 2022
+base.0=E\:\\5B MI\\PBO\\Android-Developer-Fundamentals-Version-2-master\\5.1_Drawables,_styles,_and_themes\\ScoreKeeperCC\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

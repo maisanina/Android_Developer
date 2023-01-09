@@ -1,0 +1,4 @@
+#Thu Dec 29 12:18:17 SGT 2022
+base.0=E\:\\5B MI\\PBO\\Android-Developer-Fundamentals-Version-2-master\\9.2_App_settings\\AppWithSettings\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
+renamed.0=classes.dex
+path.0=classes.dex

@@ -1,0 +1,158 @@
+[
+    {
+        "merged": "me.mahakagg.droidcafeinput.app-merged_res-30:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "me.mahakagg.droidcafeinput.app-main-32:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "me.mahakagg.droidcafeinput.app-merged_res-30:/drawable-xxhdpi_ic_status.png.flat",
+        "source": "me.mahakagg.droidcafeinput.app-main-32:/drawable-xxhdpi/ic_status.png"
+    },
+    {
+        "merged": "me.mahakagg.droidcafeinput.app-merged_res-30:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "me.mahakagg.droidcafeinput.app-main-32:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "me.mahakagg.droidcafeinput.app-merged_res-30:/drawable-xhdpi_ic_shopping_cart.png.flat",
+        "source": "me.mahakagg.droidcafeinput.app-main-32:/drawable-xhdpi/ic_shopping_cart.png"
+    },
+    {
+        "merged": "me.mahakagg.droidcafeinput.app-merged_res-30:/menu_menu_main.xml.flat",
+        "source": "me.mahakagg.droidcafeinput.app-main-32:/menu/menu_main.xml"
+    },
+    {
+        "merged": "me.mahakagg.droidcafeinput.app-merged_res-30:/drawable-xxhdpi_ic_shopping_cart.png.flat",
+        "source": "me.mahakagg.droidcafeinput.app-main-32:/drawable-xxhdpi/ic_shopping_cart.png"
+    },
+    {
+        "merged": "me.mahakagg.droidcafeinput.app-merged_res-30:/layout_activity_order.xml.flat",
+        "source": "me.mahakagg.droidcafeinput.app-main-32:/layout/activity_order.xml"
+    },
+    {
+        "merged": "me.mahakagg.droidcafeinput.app-merged_res-30:/drawable-mdpi_ic_favorite.png.flat",
+        "source": "me.mahakagg.droidcafeinput.app-main-32:/drawable-mdpi/ic_favorite.png"
+    },
+    {
+        "merged": "me.mahakagg.droidcafeinput.app-merged_res-30:/drawable_donut_circle.png.flat",
+        "source": "me.mahakagg.droidcafeinput.app-main-32:/drawable/donut_circle.png"
+    },
+    {
+        "merged": "me.mahakagg.droidcafeinput.app-merged_res-30:/drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "me.mahakagg.droidcafeinput.app-pngs-25:/drawable-hdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "me.mahakagg.droidcafeinput.app-merged_res-30:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "me.mahakagg.droidcafeinput.app-pngs-25:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "me.mahakagg.droidcafeinput.app-merged_res-30:/drawable-hdpi_ic_shopping_cart.png.flat",
+        "source": "me.mahakagg.droidcafeinput.app-main-32:/drawable-hdpi/ic_shopping_cart.png"
+    },
+    {
+        "merged": "me.mahakagg.droidcafeinput.app-merged_res-30:/drawable-mdpi_ic_status.png.flat",
+        "source": "me.mahakagg.droidcafeinput.app-main-32:/drawable-mdpi/ic_status.png"
+    },
+    {
+        "merged": "me.mahakagg.droidcafeinput.app-merged_res-30:/drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "me.mahakagg.droidcafeinput.app-pngs-25:/drawable-anydpi-v21/ic_launcher_background.xml"
+    },
+    {
+        "merged": "me.mahakagg.droidcafeinput.app-merged_res-30:/drawable-xhdpi_ic_favorite.png.flat",
+        "source": "me.mahakagg.droidcafeinput.app-main-32:/drawable-xhdpi/ic_favorite.png"
+    },
+    {
+        "merged": "me.mahakagg.droidcafeinput.app-merged_res-30:/drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "me.mahakagg.droidcafeinput.app-pngs-25:/drawable-xhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "me.mahakagg.droidcafeinput.app-merged_res-30:/drawable_froyo_circle.png.flat",
+        "source": "me.mahakagg.droidcafeinput.app-main-32:/drawable/froyo_circle.png"
+    },
+    {
+        "merged": "me.mahakagg.droidcafeinput.app-merged_res-30:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "me.mahakagg.droidcafeinput.app-main-32:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "me.mahakagg.droidcafeinput.app-merged_res-30:/drawable-xxhdpi_ic_favorite.png.flat",
+        "source": "me.mahakagg.droidcafeinput.app-main-32:/drawable-xxhdpi/ic_favorite.png"
+    },
+    {
+        "merged": "me.mahakagg.droidcafeinput.app-merged_res-30:/drawable-hdpi_ic_status.png.flat",
+        "source": "me.mahakagg.droidcafeinput.app-main-32:/drawable-hdpi/ic_status.png"
+    },
+    {
+        "merged": "me.mahakagg.droidcafeinput.app-merged_res-30:/layout_content_main.xml.flat",
+        "source": "me.mahakagg.droidcafeinput.app-main-32:/layout/content_main.xml"
+    },
+    {
+        "merged": "me.mahakagg.droidcafeinput.app-merged_res-30:/drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "me.mahakagg.droidcafeinput.app-pngs-25:/drawable-ldpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "me.mahakagg.droidcafeinput.app-merged_res-30:/drawable-mdpi_ic_shopping_cart.png.flat",
+        "source": "me.mahakagg.droidcafeinput.app-main-32:/drawable-mdpi/ic_shopping_cart.png"
+    },
+    {
+        "merged": "me.mahakagg.droidcafeinput.app-merged_res-30:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "me.mahakagg.droidcafeinput.app-main-32:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "me.mahakagg.droidcafeinput.app-merged_res-30:/drawable_icecream_circle.png.flat",
+        "source": "me.mahakagg.droidcafeinput.app-main-32:/drawable/icecream_circle.png"
+    },
+    {
+        "merged": "me.mahakagg.droidcafeinput.app-merged_res-30:/drawable-hdpi_ic_favorite.png.flat",
+        "source": "me.mahakagg.droidcafeinput.app-main-32:/drawable-hdpi/ic_favorite.png"
+    },
+    {
+        "merged": "me.mahakagg.droidcafeinput.app-merged_res-30:/drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "me.mahakagg.droidcafeinput.app-pngs-25:/drawable-xxhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "me.mahakagg.droidcafeinput.app-merged_res-30:/drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "me.mahakagg.droidcafeinput.app-pngs-25:/drawable-xxxhdpi/ic_launcher_background.png"
+    },
+    {
+        "merged": "me.mahakagg.droidcafeinput.app-merged_res-30:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "me.mahakagg.droidcafeinput.app-main-32:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "me.mahakagg.droidcafeinput.app-merged_res-30:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "me.mahakagg.droidcafeinput.app-main-32:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "me.mahakagg.droidcafeinput.app-merged_res-30:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "me.mahakagg.droidcafeinput.app-main-32:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "me.mahakagg.droidcafeinput.app-merged_res-30:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "me.mahakagg.droidcafeinput.app-main-32:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "me.mahakagg.droidcafeinput.app-merged_res-30:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "me.mahakagg.droidcafeinput.app-main-32:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "me.mahakagg.droidcafeinput.app-merged_res-30:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "me.mahakagg.droidcafeinput.app-main-32:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "me.mahakagg.droidcafeinput.app-merged_res-30:/layout_activity_main.xml.flat",
+        "source": "me.mahakagg.droidcafeinput.app-main-32:/layout/activity_main.xml"
+    },
+    {
+        "merged": "me.mahakagg.droidcafeinput.app-merged_res-30:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "me.mahakagg.droidcafeinput.app-main-32:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "me.mahakagg.droidcafeinput.app-merged_res-30:/drawable-xhdpi_ic_status.png.flat",
+        "source": "me.mahakagg.droidcafeinput.app-main-32:/drawable-xhdpi/ic_status.png"
+    },
+    {
+        "merged": "me.mahakagg.droidcafeinput.app-merged_res-30:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "me.mahakagg.droidcafeinput.app-main-32:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "me.mahakagg.droidcafeinput.app-merged_res-30:/drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "me.mahakagg.droidcafeinput.app-pngs-25:/drawable-mdpi/ic_launcher_background.png"
+    }
+]

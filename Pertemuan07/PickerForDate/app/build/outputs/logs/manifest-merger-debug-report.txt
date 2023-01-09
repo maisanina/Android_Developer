@@ -1,0 +1,160 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\5B MI\PBO\Android-Developer-Fundamentals-Version-2-master\4.3_Menus_and_pickers\PickerForDate\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from E:\5B MI\PBO\Android-Developer-Fundamentals-Version-2-master\4.3_Menus_and_pickers\PickerForDate\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from E:\5B MI\PBO\Android-Developer-Fundamentals-Version-2-master\4.3_Menus_and_pickers\PickerForDate\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from E:\5B MI\PBO\Android-Developer-Fundamentals-Version-2-master\4.3_Menus_and_pickers\PickerForDate\app\src\main\AndroidManifest.xml:2:1-21:12
+MERGED from [com.android.support:appcompat-v7:28.0.0-alpha1] C:\Users\User\.gradle\caches\transforms-3\a476b6b73a2e9739fcd42374789eb487\transformed\appcompat-v7-28.0.0-alpha1\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\User\.gradle\caches\transforms-3\60f99facefc4b3d5ef631ec07eff9117\transformed\constraint-layout-1.1.3\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\User\.gradle\caches\transforms-3\1392849267bf1b919bbcbff711a56670\transformed\support-v4-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-alpha1] C:\Users\User\.gradle\caches\transforms-3\e7b3b321ea6060ea92c0c018b3b4e621\transformed\animated-vector-drawable-28.0.0-alpha1\AndroidManifest.xml:17:1-23:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0-alpha1] C:\Users\User\.gradle\caches\transforms-3\6450db86015cf2e036ad92e6684c7a09\transformed\support-vector-drawable-28.0.0-alpha1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\User\.gradle\caches\transforms-3\1fdc34ecf6cfd40f0a5b0f7abce625f6\transformed\support-fragment-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\User\.gradle\caches\transforms-3\af18d86a4018ad6eb8e1b46d9870e9d9\transformed\support-core-ui-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\User\.gradle\caches\transforms-3\662b352a07f277bbdd9459225b481e77\transformed\support-core-utils-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\User\.gradle\caches\transforms-3\016bd519f86d0c7dd412eeaf6f467af4\transformed\support-media-compat-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\User\.gradle\caches\transforms-3\38118949ff67ea1a189768d815ebd784\transformed\loader-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\User\.gradle\caches\transforms-3\76938d60fa3892865aefdbc440f3b010\transformed\viewpager-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\User\.gradle\caches\transforms-3\55aa6679b3a5d9b70cf0691f90cd55da\transformed\coordinatorlayout-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\User\.gradle\caches\transforms-3\ac7def6eed6b7a2055e94213a3bc77e1\transformed\drawerlayout-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\User\.gradle\caches\transforms-3\1b3ca85742ecf0288e1b1782c9009be2\transformed\slidingpanelayout-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\User\.gradle\caches\transforms-3\e15725fbbed8dfdd25553420b5492357\transformed\customview-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\User\.gradle\caches\transforms-3\bbb59e5cdecae3538c4ad43a3ce5f29b\transformed\swiperefreshlayout-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\User\.gradle\caches\transforms-3\23bc8601bf3bf1285ee8b96471b72662\transformed\asynclayoutinflater-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\User\.gradle\caches\transforms-3\0326eb55e7550938a7e0152d247a371a\transformed\support-compat-28.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\User\.gradle\caches\transforms-3\f2a3608509314a3c74f115b352c3fdb7\transformed\documentfile-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\User\.gradle\caches\transforms-3\75e61fc9a91b2fc852c7fd1df7a61e48\transformed\localbroadcastmanager-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\User\.gradle\caches\transforms-3\0be286ad27588954fee5fdbd16ef58a5\transformed\print-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\User\.gradle\caches\transforms-3\270e0f456c601be5d8537d78f54b8ce2\transformed\viewmodel-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\User\.gradle\caches\transforms-3\4a4d86a3bd9f2c28c67c87b1318071af\transformed\versionedparcelable-28.0.0\AndroidManifest.xml:17:1-25:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\User\.gradle\caches\transforms-3\1a0585fc2213a5713fde26d54d4de741\transformed\runtime-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\User\.gradle\caches\transforms-3\7b4b23be1a808e8aa65dcdd613c35ea8\transformed\interpolator-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\User\.gradle\caches\transforms-3\0c8257dd9ac78244d612ef8ea175823c\transformed\cursoradapter-28.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\User\.gradle\caches\transforms-3\f3344173da60d913ee2143d6b28d69e8\transformed\livedata-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\User\.gradle\caches\transforms-3\158220d033e2754f2b9e14d3aa8e0e6b\transformed\livedata-core-1.1.1\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\User\.gradle\caches\transforms-3\4d171627bee03b5b2fad933d5217139f\transformed\runtime-1.1.1\AndroidManifest.xml:17:1-22:12
+INJECTED from E:\5B MI\PBO\Android-Developer-Fundamentals-Version-2-master\4.3_Menus_and_pickers\PickerForDate\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from E:\5B MI\PBO\Android-Developer-Fundamentals-Version-2-master\4.3_Menus_and_pickers\PickerForDate\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from E:\5B MI\PBO\Android-Developer-Fundamentals-Version-2-master\4.3_Menus_and_pickers\PickerForDate\app\src\main\AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from E:\5B MI\PBO\Android-Developer-Fundamentals-Version-2-master\4.3_Menus_and_pickers\PickerForDate\app\src\main\AndroidManifest.xml:3:5-40
+		INJECTED from E:\5B MI\PBO\Android-Developer-Fundamentals-Version-2-master\4.3_Menus_and_pickers\PickerForDate\app\src\main\AndroidManifest.xml
+		INJECTED from E:\5B MI\PBO\Android-Developer-Fundamentals-Version-2-master\4.3_Menus_and_pickers\PickerForDate\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\5B MI\PBO\Android-Developer-Fundamentals-Version-2-master\4.3_Menus_and_pickers\PickerForDate\app\src\main\AndroidManifest.xml
+		ADDED from E:\5B MI\PBO\Android-Developer-Fundamentals-Version-2-master\4.3_Menus_and_pickers\PickerForDate\app\src\main\AndroidManifest.xml:2:1-21:12
+		INJECTED from E:\5B MI\PBO\Android-Developer-Fundamentals-Version-2-master\4.3_Menus_and_pickers\PickerForDate\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from E:\5B MI\PBO\Android-Developer-Fundamentals-Version-2-master\4.3_Menus_and_pickers\PickerForDate\app\src\main\AndroidManifest.xml
+		ADDED from E:\5B MI\PBO\Android-Developer-Fundamentals-Version-2-master\4.3_Menus_and_pickers\PickerForDate\app\src\main\AndroidManifest.xml:2:1-21:12
+		INJECTED from E:\5B MI\PBO\Android-Developer-Fundamentals-Version-2-master\4.3_Menus_and_pickers\PickerForDate\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\5B MI\PBO\Android-Developer-Fundamentals-Version-2-master\4.3_Menus_and_pickers\PickerForDate\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from E:\5B MI\PBO\Android-Developer-Fundamentals-Version-2-master\4.3_Menus_and_pickers\PickerForDate\app\src\main\AndroidManifest.xml:5:5-19:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\User\.gradle\caches\transforms-3\60f99facefc4b3d5ef631ec07eff9117\transformed\constraint-layout-1.1.3\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\User\.gradle\caches\transforms-3\60f99facefc4b3d5ef631ec07eff9117\transformed\constraint-layout-1.1.3\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\User\.gradle\caches\transforms-3\0326eb55e7550938a7e0152d247a371a\transformed\support-compat-28.0.0\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\User\.gradle\caches\transforms-3\0326eb55e7550938a7e0152d247a371a\transformed\support-compat-28.0.0\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\User\.gradle\caches\transforms-3\4a4d86a3bd9f2c28c67c87b1318071af\transformed\versionedparcelable-28.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\User\.gradle\caches\transforms-3\4a4d86a3bd9f2c28c67c87b1318071af\transformed\versionedparcelable-28.0.0\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\User\.gradle\caches\transforms-3\0326eb55e7550938a7e0152d247a371a\transformed\support-compat-28.0.0\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from E:\5B MI\PBO\Android-Developer-Fundamentals-Version-2-master\4.3_Menus_and_pickers\PickerForDate\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from E:\5B MI\PBO\Android-Developer-Fundamentals-Version-2-master\4.3_Menus_and_pickers\PickerForDate\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from E:\5B MI\PBO\Android-Developer-Fundamentals-Version-2-master\4.3_Menus_and_pickers\PickerForDate\app\src\main\AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from E:\5B MI\PBO\Android-Developer-Fundamentals-Version-2-master\4.3_Menus_and_pickers\PickerForDate\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from E:\5B MI\PBO\Android-Developer-Fundamentals-Version-2-master\4.3_Menus_and_pickers\PickerForDate\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from E:\5B MI\PBO\Android-Developer-Fundamentals-Version-2-master\4.3_Menus_and_pickers\PickerForDate\app\src\main\AndroidManifest.xml:11:9-40
+activity#me.mahakagg.pickerfordate.MainActivity
+ADDED from E:\5B MI\PBO\Android-Developer-Fundamentals-Version-2-master\4.3_Menus_and_pickers\PickerForDate\app\src\main\AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from E:\5B MI\PBO\Android-Developer-Fundamentals-Version-2-master\4.3_Menus_and_pickers\PickerForDate\app\src\main\AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from E:\5B MI\PBO\Android-Developer-Fundamentals-Version-2-master\4.3_Menus_and_pickers\PickerForDate\app\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from E:\5B MI\PBO\Android-Developer-Fundamentals-Version-2-master\4.3_Menus_and_pickers\PickerForDate\app\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from E:\5B MI\PBO\Android-Developer-Fundamentals-Version-2-master\4.3_Menus_and_pickers\PickerForDate\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\5B MI\PBO\Android-Developer-Fundamentals-Version-2-master\4.3_Menus_and_pickers\PickerForDate\app\src\main\AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from E:\5B MI\PBO\Android-Developer-Fundamentals-Version-2-master\4.3_Menus_and_pickers\PickerForDate\app\src\main\AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from E:\5B MI\PBO\Android-Developer-Fundamentals-Version-2-master\4.3_Menus_and_pickers\PickerForDate\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\5B MI\PBO\Android-Developer-Fundamentals-Version-2-master\4.3_Menus_and_pickers\PickerForDate\app\src\main\AndroidManifest.xml
+INJECTED from E:\5B MI\PBO\Android-Developer-Fundamentals-Version-2-master\4.3_Menus_and_pickers\PickerForDate\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0-alpha1] C:\Users\User\.gradle\caches\transforms-3\a476b6b73a2e9739fcd42374789eb487\transformed\appcompat-v7-28.0.0-alpha1\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0-alpha1] C:\Users\User\.gradle\caches\transforms-3\a476b6b73a2e9739fcd42374789eb487\transformed\appcompat-v7-28.0.0-alpha1\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\User\.gradle\caches\transforms-3\60f99facefc4b3d5ef631ec07eff9117\transformed\constraint-layout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\User\.gradle\caches\transforms-3\60f99facefc4b3d5ef631ec07eff9117\transformed\constraint-layout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\User\.gradle\caches\transforms-3\1392849267bf1b919bbcbff711a56670\transformed\support-v4-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:28.0.0] C:\Users\User\.gradle\caches\transforms-3\1392849267bf1b919bbcbff711a56670\transformed\support-v4-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-alpha1] C:\Users\User\.gradle\caches\transforms-3\e7b3b321ea6060ea92c0c018b3b4e621\transformed\animated-vector-drawable-28.0.0-alpha1\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-alpha1] C:\Users\User\.gradle\caches\transforms-3\e7b3b321ea6060ea92c0c018b3b4e621\transformed\animated-vector-drawable-28.0.0-alpha1\AndroidManifest.xml:21:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0-alpha1] C:\Users\User\.gradle\caches\transforms-3\6450db86015cf2e036ad92e6684c7a09\transformed\support-vector-drawable-28.0.0-alpha1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0-alpha1] C:\Users\User\.gradle\caches\transforms-3\6450db86015cf2e036ad92e6684c7a09\transformed\support-vector-drawable-28.0.0-alpha1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\User\.gradle\caches\transforms-3\1fdc34ecf6cfd40f0a5b0f7abce625f6\transformed\support-fragment-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\User\.gradle\caches\transforms-3\1fdc34ecf6cfd40f0a5b0f7abce625f6\transformed\support-fragment-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\User\.gradle\caches\transforms-3\af18d86a4018ad6eb8e1b46d9870e9d9\transformed\support-core-ui-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\User\.gradle\caches\transforms-3\af18d86a4018ad6eb8e1b46d9870e9d9\transformed\support-core-ui-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\User\.gradle\caches\transforms-3\662b352a07f277bbdd9459225b481e77\transformed\support-core-utils-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\User\.gradle\caches\transforms-3\662b352a07f277bbdd9459225b481e77\transformed\support-core-utils-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\User\.gradle\caches\transforms-3\016bd519f86d0c7dd412eeaf6f467af4\transformed\support-media-compat-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:28.0.0] C:\Users\User\.gradle\caches\transforms-3\016bd519f86d0c7dd412eeaf6f467af4\transformed\support-media-compat-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\User\.gradle\caches\transforms-3\38118949ff67ea1a189768d815ebd784\transformed\loader-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\User\.gradle\caches\transforms-3\38118949ff67ea1a189768d815ebd784\transformed\loader-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\User\.gradle\caches\transforms-3\76938d60fa3892865aefdbc440f3b010\transformed\viewpager-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\User\.gradle\caches\transforms-3\76938d60fa3892865aefdbc440f3b010\transformed\viewpager-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\User\.gradle\caches\transforms-3\55aa6679b3a5d9b70cf0691f90cd55da\transformed\coordinatorlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\User\.gradle\caches\transforms-3\55aa6679b3a5d9b70cf0691f90cd55da\transformed\coordinatorlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\User\.gradle\caches\transforms-3\ac7def6eed6b7a2055e94213a3bc77e1\transformed\drawerlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\User\.gradle\caches\transforms-3\ac7def6eed6b7a2055e94213a3bc77e1\transformed\drawerlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\User\.gradle\caches\transforms-3\1b3ca85742ecf0288e1b1782c9009be2\transformed\slidingpanelayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\User\.gradle\caches\transforms-3\1b3ca85742ecf0288e1b1782c9009be2\transformed\slidingpanelayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\User\.gradle\caches\transforms-3\e15725fbbed8dfdd25553420b5492357\transformed\customview-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\User\.gradle\caches\transforms-3\e15725fbbed8dfdd25553420b5492357\transformed\customview-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\User\.gradle\caches\transforms-3\bbb59e5cdecae3538c4ad43a3ce5f29b\transformed\swiperefreshlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\User\.gradle\caches\transforms-3\bbb59e5cdecae3538c4ad43a3ce5f29b\transformed\swiperefreshlayout-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\User\.gradle\caches\transforms-3\23bc8601bf3bf1285ee8b96471b72662\transformed\asynclayoutinflater-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\User\.gradle\caches\transforms-3\23bc8601bf3bf1285ee8b96471b72662\transformed\asynclayoutinflater-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\User\.gradle\caches\transforms-3\0326eb55e7550938a7e0152d247a371a\transformed\support-compat-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\User\.gradle\caches\transforms-3\0326eb55e7550938a7e0152d247a371a\transformed\support-compat-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\User\.gradle\caches\transforms-3\f2a3608509314a3c74f115b352c3fdb7\transformed\documentfile-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\User\.gradle\caches\transforms-3\f2a3608509314a3c74f115b352c3fdb7\transformed\documentfile-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\User\.gradle\caches\transforms-3\75e61fc9a91b2fc852c7fd1df7a61e48\transformed\localbroadcastmanager-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\User\.gradle\caches\transforms-3\75e61fc9a91b2fc852c7fd1df7a61e48\transformed\localbroadcastmanager-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\User\.gradle\caches\transforms-3\0be286ad27588954fee5fdbd16ef58a5\transformed\print-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\User\.gradle\caches\transforms-3\0be286ad27588954fee5fdbd16ef58a5\transformed\print-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\User\.gradle\caches\transforms-3\270e0f456c601be5d8537d78f54b8ce2\transformed\viewmodel-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\User\.gradle\caches\transforms-3\270e0f456c601be5d8537d78f54b8ce2\transformed\viewmodel-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\User\.gradle\caches\transforms-3\4a4d86a3bd9f2c28c67c87b1318071af\transformed\versionedparcelable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\User\.gradle\caches\transforms-3\4a4d86a3bd9f2c28c67c87b1318071af\transformed\versionedparcelable-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\User\.gradle\caches\transforms-3\1a0585fc2213a5713fde26d54d4de741\transformed\runtime-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\User\.gradle\caches\transforms-3\1a0585fc2213a5713fde26d54d4de741\transformed\runtime-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\User\.gradle\caches\transforms-3\7b4b23be1a808e8aa65dcdd613c35ea8\transformed\interpolator-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\User\.gradle\caches\transforms-3\7b4b23be1a808e8aa65dcdd613c35ea8\transformed\interpolator-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\User\.gradle\caches\transforms-3\0c8257dd9ac78244d612ef8ea175823c\transformed\cursoradapter-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\User\.gradle\caches\transforms-3\0c8257dd9ac78244d612ef8ea175823c\transformed\cursoradapter-28.0.0\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\User\.gradle\caches\transforms-3\f3344173da60d913ee2143d6b28d69e8\transformed\livedata-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\User\.gradle\caches\transforms-3\f3344173da60d913ee2143d6b28d69e8\transformed\livedata-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\User\.gradle\caches\transforms-3\158220d033e2754f2b9e14d3aa8e0e6b\transformed\livedata-core-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\User\.gradle\caches\transforms-3\158220d033e2754f2b9e14d3aa8e0e6b\transformed\livedata-core-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\User\.gradle\caches\transforms-3\4d171627bee03b5b2fad933d5217139f\transformed\runtime-1.1.1\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\User\.gradle\caches\transforms-3\4d171627bee03b5b2fad933d5217139f\transformed\runtime-1.1.1\AndroidManifest.xml:20:5-44
+INJECTED from E:\5B MI\PBO\Android-Developer-Fundamentals-Version-2-master\4.3_Menus_and_pickers\PickerForDate\app\src\main\AndroidManifest.xml
+INJECTED from E:\5B MI\PBO\Android-Developer-Fundamentals-Version-2-master\4.3_Menus_and_pickers\PickerForDate\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from E:\5B MI\PBO\Android-Developer-Fundamentals-Version-2-master\4.3_Menus_and_pickers\PickerForDate\app\src\main\AndroidManifest.xml
+		ADDED from E:\5B MI\PBO\Android-Developer-Fundamentals-Version-2-master\4.3_Menus_and_pickers\PickerForDate\app\src\main\AndroidManifest.xml
+		INJECTED from E:\5B MI\PBO\Android-Developer-Fundamentals-Version-2-master\4.3_Menus_and_pickers\PickerForDate\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\5B MI\PBO\Android-Developer-Fundamentals-Version-2-master\4.3_Menus_and_pickers\PickerForDate\app\src\main\AndroidManifest.xml
+		ADDED from E:\5B MI\PBO\Android-Developer-Fundamentals-Version-2-master\4.3_Menus_and_pickers\PickerForDate\app\src\main\AndroidManifest.xml
+		INJECTED from E:\5B MI\PBO\Android-Developer-Fundamentals-Version-2-master\4.3_Menus_and_pickers\PickerForDate\app\src\main\AndroidManifest.xml
